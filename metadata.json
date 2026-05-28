@@ -1,0 +1,6 @@
+{
+  "name": "Smart Text Editor",
+  "description": "Smart Text Editor showing real-time Double Stack (Undo/Redo) data structures in React, with a ready-to-run Python Tkinter implementation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
